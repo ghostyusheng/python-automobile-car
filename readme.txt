@@ -1,12 +1,13 @@
-### how to run
+### Introduction
+A simple implementation of automobile car written in Python
 
-python3 app.py
+### Language
+python
 
-### author
+### Core Parts
+Ultrasonic sensors X 2
+Camera X 1
+Infrared Sensor X 1
 
-yusheng Zhang
-
-
-### Exam Number
-
-Y3915588
+### Platform
+Raspberry PI
